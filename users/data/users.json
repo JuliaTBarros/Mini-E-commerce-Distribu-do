@@ -4,6 +4,247 @@
     "name": "Admin",
     "email": "admin@ecommerce.com",
     "passwordHash": "$2a$10$6wDHWWK.3Jn0J5XmP4HfX.bdEohnf0sMvOgwAcvwK.532/Wxyh/J6",
-    "role": "admin"
+    "role": "admin",
+    "image": "https://dummyjson.com/icon/admin/128"
+  },
+  {
+    "id": "a75bdd06-5dd4-4261-aa82-9df6eae5e761",
+    "name": "Emily Johnson",
+    "email": "emily.johnson@x.dummyjson.com",
+    "passwordHash": "$2a$10$JUxxEY4cAswVhxcl4j8wLuM2k88PABt8GfzDMtHeGYJq9kW/fIH42",
+    "role": "admin",
+    "image": "https://dummyjson.com/icon/emilys/128"
+  },
+  {
+    "id": "3a8c3680-61f5-40b0-8e29-55eb6293e660",
+    "name": "Michael Williams",
+    "email": "michael.williams@x.dummyjson.com",
+    "passwordHash": "$2a$10$JUxxEY4cAswVhxcl4j8wLuM2k88PABt8GfzDMtHeGYJq9kW/fIH42",
+    "role": "admin",
+    "image": "https://dummyjson.com/icon/michaelw/128"
+  },
+  {
+    "id": "d2e10c2b-c025-4ef8-86e4-7038dbaa2ea9",
+    "name": "Sophia Brown",
+    "email": "sophia.brown@x.dummyjson.com",
+    "passwordHash": "$2a$10$JUxxEY4cAswVhxcl4j8wLuM2k88PABt8GfzDMtHeGYJq9kW/fIH42",
+    "role": "admin",
+    "image": "https://dummyjson.com/icon/sophiab/128"
+  },
+  {
+    "id": "0445c4cb-42a3-44c9-855a-a7cae8298367",
+    "name": "James Davis",
+    "email": "james.davis@x.dummyjson.com",
+    "passwordHash": "$2a$10$JUxxEY4cAswVhxcl4j8wLuM2k88PABt8GfzDMtHeGYJq9kW/fIH42",
+    "role": "admin",
+    "image": "https://dummyjson.com/icon/jamesd/128"
+  },
+  {
+    "id": "be12b3b4-4129-4fa8-a749-addff847788c",
+    "name": "Emma Miller",
+    "email": "emma.miller@x.dummyjson.com",
+    "passwordHash": "$2a$10$JUxxEY4cAswVhxcl4j8wLuM2k88PABt8GfzDMtHeGYJq9kW/fIH42",
+    "role": "admin",
+    "image": "https://dummyjson.com/icon/emmaj/128"
+  },
+  {
+    "id": "dc502ac1-0fe2-4d98-b208-b1f068477328",
+    "name": "Olivia Wilson",
+    "email": "olivia.wilson@x.dummyjson.com",
+    "passwordHash": "$2a$10$JUxxEY4cAswVhxcl4j8wLuM2k88PABt8GfzDMtHeGYJq9kW/fIH42",
+    "role": "user",
+    "image": "https://dummyjson.com/icon/oliviaw/128"
+  },
+  {
+    "id": "80e2683e-47d8-4c5c-b786-6b5b45c4514c",
+    "name": "Alexander Jones",
+    "email": "alexander.jones@x.dummyjson.com",
+    "passwordHash": "$2a$10$JUxxEY4cAswVhxcl4j8wLuM2k88PABt8GfzDMtHeGYJq9kW/fIH42",
+    "role": "user",
+    "image": "https://dummyjson.com/icon/alexanderj/128"
+  },
+  {
+    "id": "cf23bea5-2bba-4a88-b838-5d2450844b38",
+    "name": "Ava Taylor",
+    "email": "ava.taylor@x.dummyjson.com",
+    "passwordHash": "$2a$10$JUxxEY4cAswVhxcl4j8wLuM2k88PABt8GfzDMtHeGYJq9kW/fIH42",
+    "role": "user",
+    "image": "https://dummyjson.com/icon/avat/128"
+  },
+  {
+    "id": "2200fbee-2976-4017-985d-76326637a0f3",
+    "name": "Ethan Martinez",
+    "email": "ethan.martinez@x.dummyjson.com",
+    "passwordHash": "$2a$10$JUxxEY4cAswVhxcl4j8wLuM2k88PABt8GfzDMtHeGYJq9kW/fIH42",
+    "role": "user",
+    "image": "https://dummyjson.com/icon/ethanm/128"
+  },
+  {
+    "id": "bee5d616-e1f1-48a6-9349-ee214c2e0635",
+    "name": "Isabella Anderson",
+    "email": "isabella.anderson@x.dummyjson.com",
+    "passwordHash": "$2a$10$JUxxEY4cAswVhxcl4j8wLuM2k88PABt8GfzDMtHeGYJq9kW/fIH42",
+    "role": "user",
+    "image": "https://dummyjson.com/icon/isabellad/128"
+  },
+  {
+    "id": "7e35361a-6990-45be-ae2f-cae4bda3028b",
+    "name": "Liam Garcia",
+    "email": "liam.garcia@x.dummyjson.com",
+    "passwordHash": "$2a$10$JUxxEY4cAswVhxcl4j8wLuM2k88PABt8GfzDMtHeGYJq9kW/fIH42",
+    "role": "user",
+    "image": "https://dummyjson.com/icon/liamg/128"
+  },
+  {
+    "id": "ef661645-8d0f-4858-9c74-e902ecf10de2",
+    "name": "Mia Rodriguez",
+    "email": "mia.rodriguez@x.dummyjson.com",
+    "passwordHash": "$2a$10$JUxxEY4cAswVhxcl4j8wLuM2k88PABt8GfzDMtHeGYJq9kW/fIH42",
+    "role": "user",
+    "image": "https://dummyjson.com/icon/miar/128"
+  },
+  {
+    "id": "67c13df5-0f3d-4a84-9122-e8c43be2172a",
+    "name": "Noah Hernandez",
+    "email": "noah.hernandez@x.dummyjson.com",
+    "passwordHash": "$2a$10$JUxxEY4cAswVhxcl4j8wLuM2k88PABt8GfzDMtHeGYJq9kW/fIH42",
+    "role": "user",
+    "image": "https://dummyjson.com/icon/noahh/128"
+  },
+  {
+    "id": "c4cb0e3d-cac8-47d4-bfd7-4ab84221d2ed",
+    "name": "Charlotte Lopez",
+    "email": "charlotte.lopez@x.dummyjson.com",
+    "passwordHash": "$2a$10$JUxxEY4cAswVhxcl4j8wLuM2k88PABt8GfzDMtHeGYJq9kW/fIH42",
+    "role": "user",
+    "image": "https://dummyjson.com/icon/charlottem/128"
+  },
+  {
+    "id": "ba0a248d-f660-42cb-bd78-19ba522a595b",
+    "name": "William Gonzalez",
+    "email": "william.gonzalez@x.dummyjson.com",
+    "passwordHash": "$2a$10$JUxxEY4cAswVhxcl4j8wLuM2k88PABt8GfzDMtHeGYJq9kW/fIH42",
+    "role": "user",
+    "image": "https://dummyjson.com/icon/williamg/128"
+  },
+  {
+    "id": "dcae6045-0314-4b19-94b1-c38b1e8272eb",
+    "name": "Avery Perez",
+    "email": "avery.perez@x.dummyjson.com",
+    "passwordHash": "$2a$10$JUxxEY4cAswVhxcl4j8wLuM2k88PABt8GfzDMtHeGYJq9kW/fIH42",
+    "role": "user",
+    "image": "https://dummyjson.com/icon/averyp/128"
+  },
+  {
+    "id": "18c4edae-345d-4915-aa6d-4020def55bf3",
+    "name": "Evelyn Sanchez",
+    "email": "evelyn.sanchez@x.dummyjson.com",
+    "passwordHash": "$2a$10$JUxxEY4cAswVhxcl4j8wLuM2k88PABt8GfzDMtHeGYJq9kW/fIH42",
+    "role": "user",
+    "image": "https://dummyjson.com/icon/evelyns/128"
+  },
+  {
+    "id": "e07656a6-4aae-445f-9d2a-41757b4d41b2",
+    "name": "Logan Torres",
+    "email": "logan.torres@x.dummyjson.com",
+    "passwordHash": "$2a$10$JUxxEY4cAswVhxcl4j8wLuM2k88PABt8GfzDMtHeGYJq9kW/fIH42",
+    "role": "user",
+    "image": "https://dummyjson.com/icon/logant/128"
+  },
+  {
+    "id": "c083174f-7f21-4cbf-9daa-14ef3c683a5f",
+    "name": "Abigail Rivera",
+    "email": "abigail.rivera@x.dummyjson.com",
+    "passwordHash": "$2a$10$JUxxEY4cAswVhxcl4j8wLuM2k88PABt8GfzDMtHeGYJq9kW/fIH42",
+    "role": "user",
+    "image": "https://dummyjson.com/icon/abigailr/128"
+  },
+  {
+    "id": "dc7b8576-f01e-42b4-bf65-5bb9b82f8c2d",
+    "name": "Jackson Evans",
+    "email": "jackson.evans@x.dummyjson.com",
+    "passwordHash": "$2a$10$JUxxEY4cAswVhxcl4j8wLuM2k88PABt8GfzDMtHeGYJq9kW/fIH42",
+    "role": "user",
+    "image": "https://dummyjson.com/icon/jacksone/128"
+  },
+  {
+    "id": "0c6fedd5-c96a-4fca-ad24-2a8e3b577c04",
+    "name": "Madison Collins",
+    "email": "madison.collins@x.dummyjson.com",
+    "passwordHash": "$2a$10$JUxxEY4cAswVhxcl4j8wLuM2k88PABt8GfzDMtHeGYJq9kW/fIH42",
+    "role": "user",
+    "image": "https://dummyjson.com/icon/madisonc/128"
+  },
+  {
+    "id": "1404ec11-b523-4168-afbb-646c97b2dfee",
+    "name": "Elijah Stewart",
+    "email": "elijah.stewart@x.dummyjson.com",
+    "passwordHash": "$2a$10$JUxxEY4cAswVhxcl4j8wLuM2k88PABt8GfzDMtHeGYJq9kW/fIH42",
+    "role": "user",
+    "image": "https://dummyjson.com/icon/elijahs/128"
+  },
+  {
+    "id": "d77f1080-c24d-4653-a46d-1a8c1ab18939",
+    "name": "Chloe Morales",
+    "email": "chloe.morales@x.dummyjson.com",
+    "passwordHash": "$2a$10$JUxxEY4cAswVhxcl4j8wLuM2k88PABt8GfzDMtHeGYJq9kW/fIH42",
+    "role": "user",
+    "image": "https://dummyjson.com/icon/chloem/128"
+  },
+  {
+    "id": "205ad468-b1c4-407f-8273-bafc8cbbea8f",
+    "name": "Mateo Nguyen",
+    "email": "mateo.nguyen@x.dummyjson.com",
+    "passwordHash": "$2a$10$JUxxEY4cAswVhxcl4j8wLuM2k88PABt8GfzDMtHeGYJq9kW/fIH42",
+    "role": "user",
+    "image": "https://dummyjson.com/icon/mateon/128"
+  },
+  {
+    "id": "c61835bc-3f0c-42cf-a4e0-0aa24672297d",
+    "name": "Harper Kelly",
+    "email": "harper.kelly@x.dummyjson.com",
+    "passwordHash": "$2a$10$JUxxEY4cAswVhxcl4j8wLuM2k88PABt8GfzDMtHeGYJq9kW/fIH42",
+    "role": "user",
+    "image": "https://dummyjson.com/icon/harpere/128"
+  },
+  {
+    "id": "16f36ac9-d9b5-4c4e-b328-2e576da70612",
+    "name": "Evelyn Gonzalez",
+    "email": "evelyn.gonzalez@x.dummyjson.com",
+    "passwordHash": "$2a$10$JUxxEY4cAswVhxcl4j8wLuM2k88PABt8GfzDMtHeGYJq9kW/fIH42",
+    "role": "user",
+    "image": "https://dummyjson.com/icon/evelyng/128"
+  },
+  {
+    "id": "76cf2e76-8351-4a50-9fd0-489558abc2f7",
+    "name": "Daniel Cook",
+    "email": "daniel.cook@x.dummyjson.com",
+    "passwordHash": "$2a$10$JUxxEY4cAswVhxcl4j8wLuM2k88PABt8GfzDMtHeGYJq9kW/fIH42",
+    "role": "user",
+    "image": "https://dummyjson.com/icon/danielc/128"
+  },
+  {
+    "id": "c179b9d7-33ab-45c4-8cf3-220c1b0bcfe6",
+    "name": "Lily Lee",
+    "email": "lily.lee@x.dummyjson.com",
+    "passwordHash": "$2a$10$JUxxEY4cAswVhxcl4j8wLuM2k88PABt8GfzDMtHeGYJq9kW/fIH42",
+    "role": "user",
+    "image": "https://dummyjson.com/icon/lilyb/128"
+  },
+  {
+    "id": "3fdfad82-39b3-4f20-ad95-28f533b3d9ce",
+    "name": "Henry Hill",
+    "email": "henry.hill@x.dummyjson.com",
+    "passwordHash": "$2a$10$JUxxEY4cAswVhxcl4j8wLuM2k88PABt8GfzDMtHeGYJq9kW/fIH42",
+    "role": "user",
+    "image": "https://dummyjson.com/icon/henryh/128"
+  },
+  {
+    "id": "96e708d7-95c7-4eed-9b4a-7d44400a4951",
+    "name": "Addison Wright",
+    "email": "addison.wright@x.dummyjson.com",
+    "passwordHash": "$2a$10$JUxxEY4cAswVhxcl4j8wLuM2k88PABt8GfzDMtHeGYJq9kW/fIH42",
+    "role": "user",
+    "image": "https://dummyjson.com/icon/addisonw/128"
   }
 ]

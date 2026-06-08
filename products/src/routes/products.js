@@ -49,7 +49,8 @@ router.post("/", auth, async (req, res) => {
       .status(403)
       .json({ error: "Apenas admins podem criar produtos" });
   }
-  const { name, price, stock } = req.body;
+  const { name, description, category, price, stock, brand, thumbnail } =
+    req.body;
   if (!name || price === undefined || stock === undefined) {
     return res
       .status(400)
@@ -58,8 +59,12 @@ router.post("/", auth, async (req, res) => {
   const product = {
     id: uuidv4(),
     name,
+    description: description || null,
+    category: category || null,
     price,
     stock,
+    brand: brand || null,
+    thumbnail: thumbnail || null,
     createdAt: new Date().toISOString(),
   };
   const products = await readDB();
