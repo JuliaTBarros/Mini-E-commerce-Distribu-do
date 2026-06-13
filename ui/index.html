@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Mini E-commerce Distribuído</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500&family=Roboto:wght@400;500;700&display=swap" rel="stylesheet" />
+
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      darkMode: 'class',
+      theme: {
+        extend: {
+          colors: {
+            background: 'var(--background)',
+            foreground: 'var(--foreground)',
+            card: 'var(--card)',
+            'card-foreground': 'var(--card-foreground)',
+            primary: 'var(--primary)',
+            'primary-foreground': 'var(--primary-foreground)',
+            secondary: 'var(--secondary)',
+            'secondary-foreground': 'var(--secondary-foreground)',
+            muted: 'var(--muted)',
+            'muted-foreground': 'var(--muted-foreground)',
+            accent: 'var(--accent)',
+            'accent-foreground': 'var(--accent-foreground)',
+            destructive: 'var(--destructive)',
+            'destructive-foreground': 'var(--destructive-foreground)',
+            border: 'var(--border)',
+            input: 'var(--input)',
+            ring: 'var(--ring)',
+          },
+          fontFamily: {
+            sans: ['Roboto', 'sans-serif'],
+            mono: ['Fira Code', 'monospace'],
+          },
+          borderRadius: {
+            DEFAULT: 'var(--radius)',
+            lg: 'var(--radius)',
+          },
+        },
+      },
+    }
+  </script>
+
+  <link rel="stylesheet" href="css/theme.css" />
+</head>
+<body class="font-sans min-h-screen flex flex-col">
+
+  <header id="navbar" class="border-b border-border bg-card sticky top-0 z-50"></header>
+
+  <main id="app" class="flex-1 w-full max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6"></main>
+
+  <footer class="border-t border-border bg-card mt-auto">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6 text-sm text-muted-foreground flex flex-col sm:flex-row justify-between items-center gap-2">
+      <span>Mini E-commerce Distribuído — Atividade de Sistemas Distribuídos</span>
+      <a href="#/status" class="hover:text-primary transition-colors">Status dos serviços</a>
+    </div>
+  </footer>
+
+  <div id="toast-container"></div>
+
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>
